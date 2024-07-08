@@ -13,7 +13,6 @@ def validate_tle(line1, line2):
         if not (0.0 <= satellite.inclo <= 180.0):
             return False, "軌道傾斜角が範囲外です (0.0 <= inclo <= 180.0)"
         
-        # 他のチェックを追加することができます
         
         return True, "TLEデータは有効です"
     except Exception as e:
