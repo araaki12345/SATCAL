@@ -59,7 +59,7 @@ pip install sgp4 pyproj
 
 ## ファイル構成
 
-- `satcal.py`: メインアプリケーションのPythonスクリプト
+- `SATCAL.py`: メインアプリケーションのPythonスクリプト
 
 ## 貢献
 
@@ -67,4 +67,4 @@ pip install sgp4 pyproj
 
 ## 著者
 
-- [araaki12345](https://github.com/your-username)
+- [araaki12345](https://github.com/araaki12345)
