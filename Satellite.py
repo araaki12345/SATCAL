@@ -19,8 +19,8 @@ def validate_tle(line1, line2):
     except Exception as e:
         return False, f"TLEデータのパース中にエラーが発生しました: {e}"
 
-line1 = "1 58400U 23179A   24189.90245992  .00005957  00000-0  26900-3 0  9999"
-line2 = "2 58400  97.4012  76.4000 0003640 108.4471 251.7161 15.21338773 34872"
+line1 = ""
+line2 = ""
 
 is_valid, message = validate_tle(line1, line2)
 print(message)
