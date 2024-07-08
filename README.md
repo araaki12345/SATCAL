@@ -60,6 +60,7 @@ pip install sgp4 pyproj
 ## ファイル構成
 
 - `SATCAL.py`: メインアプリケーションのPythonスクリプト
+- `TLETest.py`: TLEが有効か調べるPythonスクリプト
 
 ## 貢献
 
