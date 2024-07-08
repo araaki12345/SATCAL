@@ -67,4 +67,4 @@ pip install sgp4 pyproj
 
 ## 著者
 
-- [あなたの名前](https://github.com/your-username)
+- [araaki12345](https://github.com/your-username)
